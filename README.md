@@ -20,5 +20,4 @@ This project simulates a distributed database architecture for Techcombank, a le
 * `SQLProgramming.sql`: Advanced SQL scripts including Views, Triggers, and Stored Procedures.
 * `Techcombank_Distributed_DB_Report.pdf`: Full project documentation and Relational Algebra Query Tree optimization.
 
-## 📊 Entity-Relationship Diagram (ERD)
-*(Bạn có thể chụp màn hình cái sơ đồ ERD 16 bảng trong file Word, up lên web imgur.com để lấy link ảnh, rồi dán link ảnh vào đây nhé! Ví dụ: `![ERD](link-anh-cua-ban)` )*
+
